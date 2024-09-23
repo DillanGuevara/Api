@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2024-09-20T14:30:05.3590132Z||;True|2024-09-19T13:27:19.2993382-05:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="SocialMedia">
+      <Value>Server=WKS140815%3bDatabase=SocialMedia%3bUser Id=%3bPassword=</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

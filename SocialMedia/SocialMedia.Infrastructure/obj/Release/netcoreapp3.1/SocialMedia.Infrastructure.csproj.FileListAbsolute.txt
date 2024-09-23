@@ -1,0 +1,16 @@
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\bin\Release\netcoreapp3.1\SocialMedia.Infrastructure.deps.json
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\bin\Release\netcoreapp3.1\SocialMedia.Infrastructure.runtimeconfig.json
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\bin\Release\netcoreapp3.1\SocialMedia.Infrastructure.runtimeconfig.dev.json
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\bin\Release\netcoreapp3.1\SocialMedia.Infrastructure.dll
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\bin\Release\netcoreapp3.1\SocialMedia.Infrastructure.pdb
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\bin\Release\netcoreapp3.1\SocialMedia.Core.dll
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\bin\Release\netcoreapp3.1\SocialMedia.Core.pdb
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\obj\Release\netcoreapp3.1\SocialMedia.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\obj\Release\netcoreapp3.1\SocialMedia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\obj\Release\netcoreapp3.1\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\obj\Release\netcoreapp3.1\SocialMedia.Infrastructure.AssemblyInfo.cs
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\obj\Release\netcoreapp3.1\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\obj\Release\netcoreapp3.1\SocialMe.BDF3DEF8.Up2Date
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\obj\Release\netcoreapp3.1\SocialMedia.Infrastructure.dll
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\obj\Release\netcoreapp3.1\SocialMedia.Infrastructure.pdb
+C:\Users\BB9709\source\repos\SocialMedia\SocialMedia.Infrastructure\obj\Release\netcoreapp3.1\SocialMedia.Infrastructure.genruntimeconfig.cache

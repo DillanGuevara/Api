@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB6E024-3608-495A-B216-79C451290C64}|SocialMedia.Api\\SocialMedia.Api.csproj|c:\\users\\bb9709\\source\\repos\\socialmedia\\socialmedia.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AEB6E024-3608-495A-B216-79C451290C64}|SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:socialmedia.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1ACF9B-BD16-4AAC-B487-FEE44FFE8D43}|SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj|c:\\users\\bb9709\\source\\repos\\socialmedia\\socialmedia.infrastructure\\data\\configurations\\loginconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1ACF9B-BD16-4AAC-B487-FEE44FFE8D43}|SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj|solutionrelative:socialmedia.infrastructure\\data\\configurations\\loginconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1ACF9B-BD16-4AAC-B487-FEE44FFE8D43}|SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj|c:\\users\\bb9709\\source\\repos\\socialmedia\\socialmedia.infrastructure\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1ACF9B-BD16-4AAC-B487-FEE44FFE8D43}|SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj|solutionrelative:socialmedia.infrastructure\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB6E024-3608-495A-B216-79C451290C64}|SocialMedia.Api\\SocialMedia.Api.csproj|c:\\users\\bb9709\\source\\repos\\socialmedia\\socialmedia.api\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB6E024-3608-495A-B216-79C451290C64}|SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:socialmedia.api\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1723064F-EDDA-42DE-A35D-F3D87574CF82}|SocialMedia.Core\\SocialMedia.Core.csproj|c:\\users\\bb9709\\source\\repos\\socialmedia\\socialmedia.core\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1723064F-EDDA-42DE-A35D-F3D87574CF82}|SocialMedia.Core\\SocialMedia.Core.csproj|solutionrelative:socialmedia.core\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1723064F-EDDA-42DE-A35D-F3D87574CF82}|SocialMedia.Core\\SocialMedia.Core.csproj|c:\\users\\bb9709\\source\\repos\\socialmedia\\socialmedia.core\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1723064F-EDDA-42DE-A35D-F3D87574CF82}|SocialMedia.Core\\SocialMedia.Core.csproj|solutionrelative:socialmedia.core\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1ACF9B-BD16-4AAC-B487-FEE44FFE8D43}|SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj|c:\\users\\bb9709\\source\\repos\\socialmedia\\socialmedia.infrastructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1ACF9B-BD16-4AAC-B487-FEE44FFE8D43}|SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj|solutionrelative:socialmedia.infrastructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB6E024-3608-495A-B216-79C451290C64}|SocialMedia.Api\\SocialMedia.Api.csproj|c:\\users\\bb9709\\source\\repos\\socialmedia\\socialmedia.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB6E024-3608-495A-B216-79C451290C64}|SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:socialmedia.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB6E024-3608-495A-B216-79C451290C64}|SocialMedia.Api\\SocialMedia.Api.csproj|c:\\users\\bb9709\\source\\repos\\socialmedia\\socialmedia.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB6E024-3608-495A-B216-79C451290C64}|SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:socialmedia.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB6E024-3608-495A-B216-79C451290C64}|SocialMedia.Api\\SocialMedia.Api.csproj|c:\\users\\bb9709\\source\\repos\\socialmedia\\socialmedia.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB6E024-3608-495A-B216-79C451290C64}|SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:socialmedia.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "SocialMedia.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Api\\Dockerfile",
+              "RelativeToolTip": "SocialMedia.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-23T13:42:22.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Api\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Api\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Api\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "SocialMedia.Api\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:23:41.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Infrastructure\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Infrastructure\\Repositories\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Infrastructure\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "SocialMedia.Infrastructure\\Repositories\\LoginRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:22:56.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Core\\Entities\\Login.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Core\\Entities\\Login.cs",
+              "ToolTip": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Core\\Entities\\Login.cs",
+              "RelativeToolTip": "SocialMedia.Core\\Entities\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:16:10.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Infrastructure\\Data\\Configurations\\LoginConfiguration.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Infrastructure\\Data\\Configurations\\LoginConfiguration.cs",
+              "ToolTip": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Infrastructure\\Data\\Configurations\\LoginConfiguration.cs",
+              "RelativeToolTip": "SocialMedia.Infrastructure\\Data\\Configurations\\LoginConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:50:08.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Core\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Core\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Core\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "SocialMedia.Core\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:15:44.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Api\\Startup.cs",
+              "ToolTip": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Api\\Startup.cs",
+              "RelativeToolTip": "SocialMedia.Api\\Startup.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:40:16.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "SocialMedia.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:57:52.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Api\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Api\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Api\\Controllers\\PostController.cs",
+              "RelativeToolTip": "SocialMedia.Api\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAcwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:52:15.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutomapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Infrastructure\\Mappings\\AutomapperProfile.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Infrastructure\\Mappings\\AutomapperProfile.cs",
+              "ToolTip": "C:\\Users\\BB9709\\source\\repos\\SocialMedia\\SocialMedia.Infrastructure\\Mappings\\AutomapperProfile.cs",
+              "RelativeToolTip": "SocialMedia.Infrastructure\\Mappings\\AutomapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:32:21.069Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

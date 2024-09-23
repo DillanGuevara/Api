@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\BB9709\Documents\Release\netcoreapp3.1\publish</_PublishTargetUrl>
+    <History>True|2024-09-20T14:40:15.6951540Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="SocialMedia">
+      <Value>Server=%28localdb%29\MSSQLLocalDB%3bDatabase=SocialMedia%3bIntegrated Security=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
